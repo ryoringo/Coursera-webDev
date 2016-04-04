@@ -76,6 +76,7 @@ a.back{
 @media(max-width:767px){
 
   #header-nav h1{
+    margin-bottom:0px
     font-size:5vw;
   }
 
